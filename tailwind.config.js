@@ -6,7 +6,7 @@ module.exports = {
       colors: {
         gray: "hsl(0, 0%, 59%)",
         vdb: "hsl(209, 33%, 12%)",
-        paleblue: "hsl(223, 100%, 88%)",
+        paleblue: "hsl(223, 100%, 78%)",
         lightred: "hsl(354, 100%, 66%)",
         blue: "hsl(223, 87%, 63%)",
       },
