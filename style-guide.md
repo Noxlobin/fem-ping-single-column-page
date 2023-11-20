@@ -42,6 +42,4 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
 
-Notify Me
-
 &copy; Copyright Ping. All rights reserved.
