@@ -2,7 +2,7 @@
   "name": "fem-ping-single-column-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://noxlobin.github.io/fem-ping-single-column/",
+  "homepage": "https://noxlobin.github.io/fem-ping-single-column-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -13,6 +13,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
