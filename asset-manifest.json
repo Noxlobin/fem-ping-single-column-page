@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fem-ping-single-column-page/static/css/main.8d3081ca.css",
+    "main.js": "/fem-ping-single-column-page/static/js/main.d9433980.js",
+    "static/media/illustration-dashboard.png": "/fem-ping-single-column-page/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/logo.svg": "/fem-ping-single-column-page/static/media/logo.7e09371f05c7e00fddccee34a9deac87.svg",
+    "index.html": "/fem-ping-single-column-page/index.html",
+    "main.8d3081ca.css.map": "/fem-ping-single-column-page/static/css/main.8d3081ca.css.map",
+    "main.d9433980.js.map": "/fem-ping-single-column-page/static/js/main.d9433980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3081ca.css",
+    "static/js/main.d9433980.js"
+  ]
+}
